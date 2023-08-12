@@ -22,3 +22,7 @@ Additionally the server can be configured with an RCON port.  RCON will be disab
 ## RCON
 
 If you plan to use RCON it currently needs to be manually configured in the server.ini file.  At some point server variables will be added.
+
+## Mods
+
+ Due to a bug in the server, this Egg does not support mods. Without mods the egg runs great; as soon as mods are enabled, the server crashes
