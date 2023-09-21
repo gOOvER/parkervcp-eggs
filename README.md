@@ -169,7 +169,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Bedrock](game_eggs/minecraft/bedrock) Servers for Bedrock Minecraft (Windows, mobile, console)
   * [Bedrock](game_eggs/minecraft/bedrock/bedrock)
   * [gomint](game_eggs/minecraft/bedrock/gomint)
-  * [LiteLoaderBDS](game_eggs/bedrock/LiteLoader-bedrock)
+  * [LiteLoaderBDS](game_eggs/minecraft/bedrock/LiteLoader-bedrock)
   * [Nukkit](game_eggs/minecraft/bedrock/nukkit)
   * [PocketMine MP](game_eggs/minecraft/bedrock/pocketmine_mp)
   * [PowerNukkitX](game_eggs/minecraft/bedrock/PowerNukkitX)
